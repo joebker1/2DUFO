@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+/*
+Description: This script is the camera controller. It follows the UFO (Player) around the level.
+*/
+
+using UnityEngine;
 using System.Collections;
 
 
