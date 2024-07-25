@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+/*
+Description: This spins the coins to make them enticing to the player.
+*/
+
+using UnityEngine;
 using System.Collections;
 
 
