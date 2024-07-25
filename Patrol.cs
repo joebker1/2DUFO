@@ -1,4 +1,8 @@
-﻿using System.Collections;
+/*
+Description: This script is attached to an object, the Alien Slime, so that it could roam the level.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
